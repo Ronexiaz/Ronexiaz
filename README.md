@@ -1,7 +1,7 @@
-Hey I'm Ronexiaz
-I'm a student currently studying Computer Science and I'm working on whatever interests me whenever I want
+## Hey I'm Ronexiaz,
+I'm just a guy who likes Java and Python. I just graduated with a degree in comp sci. This is my personal profile, not my professional one. Past school projects, personal, non-resume projects will go here.
 
-I'm Ronexiaz on almost everything, if you ever want to add me somewhere else
+I'm Ronexiaz on almost everything btw, if you ever want to scream at me, you can usually find me under that name.
 
 <!---
 Ronexiaz/Ronexiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
